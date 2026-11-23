@@ -1,0 +1,1 @@
+"""Project intelligence ingestion and retrieval components."""

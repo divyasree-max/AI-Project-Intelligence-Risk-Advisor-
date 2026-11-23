@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Project Intelligence Advisor",
+			"type": "shell",
+			"command": "C:\\Users\\sreer\\AppData\\Local\\Microsoft\\WindowsApps\\python3.13.exe",
+			"args": [
+				"-m",
+				"streamlit",
+				"run",
+				"app.py"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
